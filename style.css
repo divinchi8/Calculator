@@ -30,7 +30,7 @@ body {
 }
 
 .screen {
-  height: 80px;
+  height: 160px;
   background-color: #121212;
   color: white;
   display: flex;
